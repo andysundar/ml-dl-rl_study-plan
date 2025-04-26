@@ -1,13 +1,14 @@
 # Week 12: Policy Gradient Methods
 
 ## Learning Objectives
-- Understand and apply concepts in Policy Gradient Methods.
+- Understand and implement Policy Gradient algorithms.
 
 ## Topics
-- Core concepts and techniques related to Policy Gradient Methods.
+- Policy Gradients
+- REINFORCE Algorithm
 
 ## Programming Exercises
-- Implement key coding exercises related to Policy Gradient Methods.
+- Implement REINFORCE on CartPole environment.
 
 ## Checklist
 - [ ] Study theoretical concepts
