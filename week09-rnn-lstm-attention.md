@@ -1,13 +1,13 @@
 # Week 9: RNNs, LSTM, and Attention
 
 ## Learning Objectives
-- Understand and apply concepts in RNNs, LSTM, and Attention.
+- Understand and apply sequential models.
 
 ## Topics
-- Core concepts and techniques related to RNNs, LSTM, and Attention.
+- RNN, LSTM, Attention Mechanism
 
 ## Programming Exercises
-- Implement key coding exercises related to RNNs, LSTM, and Attention.
+- Build a text generator using LSTM.
 
 ## Checklist
 - [ ] Study theoretical concepts
