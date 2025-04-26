@@ -1,13 +1,17 @@
 # Week 1: Linear Algebra
 
 ## Learning Objectives
-- Understand and apply concepts in Linear Algebra.
+- Understand vectors, matrices, dot product, matrix multiplication.
+- Apply concepts to PCA and neural networks.
 
 ## Topics
-- Core concepts and techniques related to Linear Algebra.
+- Scalars, Vectors, Matrices, Tensors
+- Matrix Operations
+- Eigenvalues and Eigenvectors
 
 ## Programming Exercises
-- Implement key coding exercises related to Linear Algebra.
+- Implement matrix multiplication manually in Python.
+- Implement PCA from scratch (without Sklearn).
 
 ## Checklist
 - [ ] Study theoretical concepts
