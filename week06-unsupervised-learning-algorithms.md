@@ -10,6 +10,12 @@
 ## Programming Exercises
 - Implement K-Means manually.
 
+## 🎯 Stretch Goal
+- Visualize SVM Decision Boundaries
+
+## 📚 Research Link
+- [Research Paper/Resource](https://link.springer.com/article/10.1023/A:1022627411411)
+
 ## Checklist
 - [ ] Study theoretical concepts
 - [ ] Complete programming tasks
