@@ -10,6 +10,12 @@
 ## Programming Exercises
 - Implement MLP manually in Python (no TensorFlow).
 
+## 🎯 Stretch Goal
+- Implement Nesterov Accelerated Gradient
+
+## 📚 Research Link
+- [Research Paper/Resource](https://cs231n.github.io/optimization-1/)
+  
 ## Checklist
 - [ ] Study theoretical concepts
 - [ ] Complete programming tasks
