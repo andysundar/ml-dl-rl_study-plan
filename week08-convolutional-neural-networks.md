@@ -1,13 +1,14 @@
 # Week 8: Convolutional Neural Networks
 
 ## Learning Objectives
-- Understand and apply concepts in Convolutional Neural Networks.
+- Understand CNN architecture and operations.
 
 ## Topics
-- Core concepts and techniques related to Convolutional Neural Networks.
+- Convolution Operations
+- Pooling
 
 ## Programming Exercises
-- Implement key coding exercises related to Convolutional Neural Networks.
+- Build a simple CNN for MNIST digit classification.
 
 ## Checklist
 - [ ] Study theoretical concepts
