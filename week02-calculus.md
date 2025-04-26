@@ -1,13 +1,18 @@
 # Week 2: Calculus
 
 ## Learning Objectives
-- Understand and apply concepts in Calculus.
+- Understand derivatives, gradients, chain rule.
+- Apply backpropagation fundamentals.
 
 ## Topics
-- Core concepts and techniques related to Calculus.
+- Partial derivatives
+- Chain Rule
+- Gradient Descent Algorithm
+
+
 
 ## Programming Exercises
-- Implement key coding exercises related to Calculus.
+- Implement simple Gradient Descent to find the minimum of a function.
 
 ## Checklist
 - [ ] Study theoretical concepts
