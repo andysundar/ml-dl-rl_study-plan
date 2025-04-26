@@ -2,6 +2,7 @@
 
 ## Learning Objectives
 - Understand clustering and dimensionality reduction.
+- Kernel Methods.
 
 ## Topics
 - K-Means Clustering
@@ -9,6 +10,7 @@
 
 ## Programming Exercises
 - Implement K-Means manually.
+- Kernel PCA
 
 ## 🎯 Stretch Goal
 - Visualize SVM Decision Boundaries
