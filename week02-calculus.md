@@ -9,10 +9,14 @@
 - Chain Rule
 - Gradient Descent Algorithm
 
-
-
 ## Programming Exercises
 - Implement simple Gradient Descent to find the minimum of a function.
+
+## 🎯 Stretch Goal
+- Implement SGD on quadratic function
+
+## 📚 Research Link
+- [Research Paper/Resource](https://web.stanford.edu/~boyd/cvxbook/)
 
 ## Checklist
 - [ ] Study theoretical concepts
