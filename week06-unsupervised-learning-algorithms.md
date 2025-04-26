@@ -8,7 +8,7 @@
 - PCA
 
 ## Programming Exercises
-- Implement key coding exercises related to Unsupervised Learning Algorithms.
+- Implement K-Means manually.
 
 ## Checklist
 - [ ] Study theoretical concepts
