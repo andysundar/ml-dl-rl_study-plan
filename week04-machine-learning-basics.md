@@ -1,7 +1,7 @@
 # Week 4: Machine Learning Basics
 
 ## Learning Objectives
-- Understand supervised and unsupervised learning.\
+- Understand supervised and unsupervised learning.
 - Implement simple models manually.
 
 ## Topics
