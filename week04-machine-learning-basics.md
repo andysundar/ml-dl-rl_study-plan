@@ -11,6 +11,12 @@
 ## Programming Exercises
 - Implement Linear Regression from scratch without Scikit-learn.
 
+## 🎯 Stretch Goal
+- Implement Regularized Linear Regression (L1/L2)
+
+## 📚 Research Link
+- [Research Paper/Resource](https://cs229.stanford.edu/notes/cs229-notes1.pdf)
+
 ## Checklist
 - [ ] Study theoretical concepts
 - [ ] Complete programming tasks
