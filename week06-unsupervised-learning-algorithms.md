@@ -1,10 +1,11 @@
 # Week 6: Unsupervised Learning Algorithms
 
 ## Learning Objectives
-- Understand and apply concepts in Unsupervised Learning Algorithms.
+- Understand clustering and dimensionality reduction.
 
 ## Topics
-- Core concepts and techniques related to Unsupervised Learning Algorithms.
+- K-Means Clustering
+- PCA
 
 ## Programming Exercises
 - Implement key coding exercises related to Unsupervised Learning Algorithms.
