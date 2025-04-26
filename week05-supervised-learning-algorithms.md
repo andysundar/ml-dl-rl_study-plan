@@ -1,13 +1,13 @@
 # Week 5: Supervised Learning Algorithms
 
 ## Learning Objectives
-- Understand and apply concepts in Supervised Learning Algorithms.
+- Implement Decision Trees manually.
 
 ## Topics
-- Core concepts and techniques related to Supervised Learning Algorithms.
+- Decision Trees, Gini Impurity
 
 ## Programming Exercises
-- Implement key coding exercises related to Supervised Learning Algorithms.
+- Build a basic Decision Tree from scratch.
 
 ## Checklist
 - [ ] Study theoretical concepts
