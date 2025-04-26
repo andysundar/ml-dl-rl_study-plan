@@ -1,13 +1,14 @@
 # Week 7: Neural Networks Basics
 
 ## Learning Objectives
-- Understand and apply concepts in Neural Networks Basics.
+- Build and train a simple neural network.
 
 ## Topics
-- Core concepts and techniques related to Neural Networks Basics.
+- MLP (Multilayer Perceptron)
+- Forward and Backward Pass
 
 ## Programming Exercises
-- Implement key coding exercises related to Neural Networks Basics.
+- Implement MLP manually in Python (no TensorFlow).
 
 ## Checklist
 - [ ] Study theoretical concepts
