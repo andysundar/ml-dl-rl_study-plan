@@ -1,13 +1,14 @@
 # Week 10: Reinforcement Learning Basics
 
 ## Learning Objectives
-- Understand and apply concepts in Reinforcement Learning Basics.
+- Understand MDPs, policies, value iteration.
 
 ## Topics
-- Core concepts and techniques related to Reinforcement Learning Basics.
+- MDP Formulation
+- Value Iteration
 
 ## Programming Exercises
-- Implement key coding exercises related to Reinforcement Learning Basics.
+- Implement Gridworld and solve it with Value Iteration.
 
 ## Checklist
 - [ ] Study theoretical concepts
