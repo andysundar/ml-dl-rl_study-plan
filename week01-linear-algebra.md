@@ -13,6 +13,13 @@
 - Implement matrix multiplication manually in Python.
 - Implement PCA from scratch (without Sklearn).
 
+
+## 🎯 Stretch Goal
+- Implement GD with Momentum manually
+
+## 📚 Research Link
+- [Research Paper/Resource](https://web.stanford.edu/~boyd/cvxbook/)
+  
 ## Checklist
 - [ ] Study theoretical concepts
 - [ ] Complete programming tasks
