@@ -1,13 +1,14 @@
 # Week 11: Q-Learning and Deep Q Networks
 
 ## Learning Objectives
-- Understand and apply concepts in Q-Learning and Deep Q Networks.
+- Implement Deep Q Networks.
 
 ## Topics
-- Core concepts and techniques related to Q-Learning and Deep Q Networks.
+- Q-learning
+- DQN (Deep Q Network)
 
 ## Programming Exercises
-- Implement key coding exercises related to Q-Learning and Deep Q Networks.
+- Solve OpenAI Gym CartPole using DQN.
 
 ## Checklist
 - [ ] Study theoretical concepts
